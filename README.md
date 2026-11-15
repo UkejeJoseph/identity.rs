@@ -1,3 +1,5 @@
+> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
+
 ![banner](https://github.com/iotaledger/identity.rs/raw/HEAD/.github/banner_identity.svg)
 
 <p align="center">
